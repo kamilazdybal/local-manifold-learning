@@ -4,6 +4,12 @@ This repository contains code and materials to reproduce the results from the "*
 
 > K. Zdybał, G. D'Alessio, A. Attili, A. Coussement, J. C. Sutherland, A. Parente - *Local manifold learning and its link to domain-based physics knowledge*, 2022, Applications in Energy and Combustion Science
 
+### Our methodology
+
+<p align="center">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/figures/global-local-PCA.png" width="900">
+</p>
+
 ## Data availability
 
 All datasets used in the current work are provided in the [`data-sets`](data-sets/) directory. The datasets have been generated with the open-source [Spifire](https://spitfire.readthedocs.io/en/latest/) Python library.
