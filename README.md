@@ -21,6 +21,6 @@ All datasets used in the current work are provided in the [`data-sets`](data-set
 
 ## Reproducing paper results using Jupyter notebooks
 
-All code used to produce the results in the original publication and in the supplementary material can be found in the Jupyter notebooks provided in the [`code`](code/) directory. [`PCAfold`](https://pcafold.readthedocs.io/en/latest/index.html) library is required.
+All code used to produce the results in the original publication and in the supplementary material can be found in the Jupyter notebooks provided in the [`code`](code/) directory. [PCAfold](https://pcafold.readthedocs.io/en/latest/index.html) library is required.
 
 Below, are the detailed guidelines on reproducing each figure from the original publication:
