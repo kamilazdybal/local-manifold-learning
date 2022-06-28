@@ -2,7 +2,12 @@
 
 This repository contains code and materials to reproduce the results from the "*Local manifold learning and its link to domain-based physics knowledge*" paper.
 
-> K. Zdybał, G. D'Alessio, A. Attili, A. Coussement, J. C. Sutherland, A. Parente - *Local manifold learning and its link to domain-based physics knowledge*, 2022, Applications in Energy and Combustion Science
+> K. Zdybał, G. D'Alessio, A. Attili, A. Coussement, J. C. Sutherland, A. Parente - *Local manifold learning and its link
+to domain-based physics knowledge*, 2022, Applications in Energy and Combustion Science
+
+### Our hypothesis
+
+Local PCA can find the intrinsic low-dimensional parameterization of combustion systems in a data-driven way.
 
 ### Our methodology
 
