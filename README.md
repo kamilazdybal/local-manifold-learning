@@ -17,10 +17,27 @@ Local PCA can find the intrinsic low-dimensional parameterization of combustion 
 
 ## Data availability
 
-All datasets used in the current work are provided in the [`data-sets`](data-sets/) directory. The datasets have been generated with the open-source [Spifire](https://spitfire.readthedocs.io/en/latest/) Python library.
+All datasets used in the current work are provided in the [`data`](data/) directory. The datasets have been generated with the open-source [Spifire](https://spitfire.readthedocs.io/en/latest/) Python library.
 
 ## Reproducing paper results using Jupyter notebooks
 
 All code used to produce the results in the original publication and in the supplementary material can be found in the Jupyter notebooks provided in the [`code`](code/) directory. [PCAfold](https://pcafold.readthedocs.io/en/latest/index.html) library is required.
 
 Below, are the detailed guidelines on reproducing each figure from the original publication:
+
+### 📄 $\S4.1$ The Burke-Schumann model 
+
+This [Jupyter notebook](code/paper-simple-systems-Burke-Schumann.ipynb) can be used to reproduce results in $\S4.1$.
+
+<p align="center">
+  <img src="https://github.com/kamilazdybal/loca-manifold-learning/raw/main/figures/BS-VQPCA.png" width="300">
+</p>
+
+### 📄 $\S4.2$ The chemical equilibrium model 
+
+This [Jupyter notebook](code/paper-simple-systems-Chemical-Equilibrium.ipynb) can be used to reproduce results in $\S4.2$.
+
+
+### 📄 $\S4.3$ The homogeneous reactor model 
+
+This [Jupyter notebook](code/paper-simple-systems-Homogeneous-Reactor.ipynb) can be used to reproduce results in $\S4.3$.
