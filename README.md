@@ -30,7 +30,7 @@ Below, are the detailed guidelines on reproducing each figure from the original 
 This [Jupyter notebook](code/paper-simple-systems-Burke-Schumann.ipynb) can be used to reproduce results in $\S4.1$.
 
 <p align="center">
-  <img src="https://github.com/kamilazdybal/loca-manifold-learning/raw/main/figures/BS-VQPCA.png" width="300">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/figures/BS-VQPCA.png" width="300">
 </p>
 
 ### 📄 $\S4.2$ The chemical equilibrium model 
