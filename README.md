@@ -25,7 +25,7 @@ All code used to produce the results in the original publication and in the supp
 
 Below, are the detailed guidelines on reproducing each figure from the original publication:
 
-### 📄 $\S4.1$ The Burke-Schumann model 
+### 📄 $\S4.1$ The Burke-Schumann model
 
 This [Jupyter notebook](code/paper-simple-systems-Burke-Schumann.ipynb) can be used to reproduce results in $\S4.1$.
 
@@ -33,11 +33,14 @@ This [Jupyter notebook](code/paper-simple-systems-Burke-Schumann.ipynb) can be u
   <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/figures/BS-VQPCA.png" width="300">
 </p>
 
-### 📄 $\S4.2$ The chemical equilibrium model 
+### 📄 $\S4.2$ The chemical equilibrium model
 
 This [Jupyter notebook](code/paper-simple-systems-Chemical-Equilibrium.ipynb) can be used to reproduce results in $\S4.2$.
 
+<p align="center">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/figures/EQ-Auto-k8-q1-f-bins-initialization-VQPCA.gif" width="800">
+</p>
 
-### 📄 $\S4.3$ The homogeneous reactor model 
+### 📄 $\S4.3$ The homogeneous reactor model
 
 This [Jupyter notebook](code/paper-simple-systems-Homogeneous-Reactor.ipynb) can be used to reproduce results in $\S4.3$.
