@@ -53,6 +53,10 @@ The observations in clusters get re-distributed in an iterative process from the
 
 The observations in clusters get re-distributed in an iterative process from the initial bins of the mixture fraction, $f$, vector:
 
+<p align="center">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/cluster-redistribution-animations/clusters-animation-DNS-VQPCA-idx0mf-scaling-auto-q3-k4.gif" width="300">
+</p>
+
 ![Screenshot](clusters-animation-DNS-VQPCA-idx0mf-scaling-auto-q3-k4.gif)
 
 #### Random initialization
