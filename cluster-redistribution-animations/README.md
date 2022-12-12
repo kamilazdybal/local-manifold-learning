@@ -2,7 +2,7 @@
 
 The animations below show how cluster definitions change iteratively during VQPCA.
 
-## Burke-Schumman (BS) dataset
+## Burke-Schumann (BS) dataset
 
 ### Auto scaling on a dataset $\mathbf{X} = [T, Y_i]$
 
