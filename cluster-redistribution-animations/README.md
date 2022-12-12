@@ -1,22 +1,48 @@
 
 # Animations of cluster re-distribution inside VQPCA
 
+The animations below show how cluster definitions change iteratively during VQPCA. 
+
 ## Chemical equilibrium (EQ) dataset
+
+### Auto scaling on a dataset $\mathbf{X} = [T, Y_i]$
 
 #### Initialization with $f$-bins
 
-The animation below shows how cluster definitions change during VQPCA. The observations in clusters get re-distributed in an iterative process from the initial bins of the mixture fraction (*f*) vector.
+The observations in clusters get re-distributed in an iterative process from the initial bins of the mixture fraction ($f$) vector:
 
-![Screenshot](EQ-Auto-k8-q1-f-bins-initialization-VQPCA.gif)
+![Screenshot](clusters-animation-EQ-CH4-VQPCA-idx0mf-scaling-auto-q1-k8.gif)
 
 #### Random initialization
 
-The animation below shows how cluster definitions change during VQPCA. The observations in clusters get re-distributed in an iterative process from the initial randomly generated clusters.
+The observations in clusters get re-distributed in an iterative process from the initial randomly generated clusters:
 
-![Screenshot](EQ-Auto-k8-q1-random-initialization-VQPCA.gif)
+![Screenshot](clusters-animation-EQ-CH4-VQPCA-idx0randombest-scaling-auto-q1-k8.gif)
 
 #### Uniform initialization
 
-The animation below shows how cluster definitions change during VQPCA. The observations in clusters get re-distributed in an iterative process from the initial uniformly generated clusters.
+The observations in clusters get re-distributed in an iterative process from the initial uniformly generated clusters:
 
-![Screenshot](EQ-Auto-k8-q1-uniform-initialization-VQPCA.gif)
+![Screenshot](clusters-animation-EQ-CH4-VQPCA-idx0uniform-scaling-auto-q1-k8.gif)
+
+### Pareto scaling on a dataset $\mathbf{X} = [Y_i]$
+
+#### Initialization with $f$-bins
+
+The observations in clusters get re-distributed in an iterative process from the initial bins of the mixture fraction ($f$) vector:
+
+![Screenshot](clusters-animation-EQ-CH4-VQPCA-idx0mf-scaling-pareto-q1-k8.gif)
+
+#### Random initialization
+
+The observations in clusters get re-distributed in an iterative process from the initial randomly generated clusters:
+
+![Screenshot](clusters-animation-EQ-CH4-VQPCA-idx0randombest-scaling-pareto-q1-k8.gif)
+
+#### Uniform initialization
+
+The observations in clusters get re-distributed in an iterative process from the initial uniformly generated clusters:
+
+![Screenshot](clusters-animation-EQ-CH4-VQPCA-idx0uniform-scaling-pareto-q1-k8.gif)
+
+## Direct numerical simulation (DNS) dataset
