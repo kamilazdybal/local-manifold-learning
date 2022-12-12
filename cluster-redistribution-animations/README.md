@@ -54,22 +54,24 @@ The observations in clusters get re-distributed in an iterative process from the
 The observations in clusters get re-distributed in an iterative process from the initial bins of the mixture fraction, $f$, vector:
 
 <p align="center">
-  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/cluster-redistribution-animations/clusters-animation-DNS-VQPCA-idx0mf-scaling-auto-q3-k4.gif" width="300">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/cluster-redistribution-animations/clusters-animation-DNS-VQPCA-idx0mf-scaling-auto-q3-k4.gif" width="500">
 </p>
-
-![Screenshot](clusters-animation-DNS-VQPCA-idx0mf-scaling-auto-q3-k4.gif)
 
 #### Random initialization
 
 The observations in clusters get re-distributed in an iterative process from the initial randomly generated clusters:
 
-![Screenshot](clusters-animation-DNS-VQPCA-idx0randombest-scaling-auto-q3-k4.gif)
+<p align="center">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/cluster-redistribution-animations/clusters-animation-DNS-VQPCA-idx0randombest-scaling-auto-q3-k4.gif" width="500">
+</p>
 
 #### Uniform initialization
 
 The observations in clusters get re-distributed in an iterative process from the initial uniformly generated clusters:
 
-![Screenshot](clusters-animation-DNS-VQPCA-idx0uniform-scaling-auto-q3-k4.gif)
+<p align="center">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/cluster-redistribution-animations/clusters-animation-DNS-VQPCA-idx0uniform-scaling-auto-q3-k4.gif" width="500">
+</p>
 
 ### Pareto scaling on a dataset $\mathbf{X} = [Y_i]$
 
@@ -77,16 +79,22 @@ The observations in clusters get re-distributed in an iterative process from the
 
 The observations in clusters get re-distributed in an iterative process from the initial bins of the mixture fraction, $f$, vector:
 
-![Screenshot](clusters-animation-DNS-VQPCA-idx0mf-scaling-pareto-q3-k4.gif)
+<p align="center">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/cluster-redistribution-animations/clusters-animation-DNS-VQPCA-idx0mf-scaling-pareto-q3-k4.gif" width="500">
+</p>
 
 #### Random initialization
 
 The observations in clusters get re-distributed in an iterative process from the initial randomly generated clusters:
 
-![Screenshot](clusters-animation-DNS-VQPCA-idx0randombest-scaling-pareto-q3-k4.gif)
+<p align="center">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/cluster-redistribution-animations/clusters-animation-DNS-VQPCA-idx0randombest-scaling-pareto-q3-k4.gif" width="500">
+</p>
 
 #### Uniform initialization
 
 The observations in clusters get re-distributed in an iterative process from the initial uniformly generated clusters:
 
-![Screenshot](clusters-animation-DNS-VQPCA-idx0uniform-scaling-pareto-q3-k4.gif)
+<p align="center">
+  <img src="https://github.com/kamilazdybal/local-manifold-learning/raw/main/cluster-redistribution-animations/clusters-animation-DNS-VQPCA-idx0uniform-scaling-pareto-q3-k4.gif" width="500">
+</p>
