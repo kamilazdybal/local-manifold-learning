@@ -1,3 +1,5 @@
+This repository is licensed under: [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 # Local manifold learning and its link to domain-based physics knowledge
 
 This repository contains code and materials to reproduce the results from the "*Local manifold learning and its link to domain-based physics knowledge*" paper.
