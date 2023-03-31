@@ -5,7 +5,24 @@ This repository is licensed under: [![License: CC BY-NC 4.0](https://img.shields
 This repository contains code and materials to reproduce the results from the "*Local manifold learning and its link to domain-based physics knowledge*" paper.
 
 > K. Zdybał, G. D'Alessio, A. Attili, A. Coussement, J. C. Sutherland, A. Parente - *Local manifold learning and its link
-to domain-based physics knowledge*, 2022, Applications in Energy and Combustion Science
+to domain-based physics knowledge*, 2023, Applications in Energy and Combustion Science
+
+You can find the open-source article here: https://www.sciencedirect.com/sdfe/reader/pii/S2666352X23000201/pdf.
+
+BibTeX citation:
+
+```
+@article{zdybal2023local,
+  title={Local manifold learning and its link to domain-based physics knowledge},
+  author={Zdybał, Kamila and D'Alessio, Giuseppe and Attili, Antonio and Coussement, Axel and Sutherland, James C and Parente, Alessandro},
+  journal={Applications in Energy and Combustion Science},
+  volume={Special issue: Machine Learning Methods for Reactive Flows},
+  pages = {100131},
+  issn = {2666-352X},
+  year={2023},
+  publisher={Elsevier}
+}
+```
 
 ### Our hypothesis
 
